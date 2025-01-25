@@ -12,3 +12,7 @@
   https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
   
 - estado el proyecto en construccion.
+
+Para ejecutar el sistema, debes poner;
+
+````npm install react````
