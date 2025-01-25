@@ -7,8 +7,8 @@
   el equipo que trabaja en el desarrollo, como contribuir (se es un proyecto open source), como usar, etc.
 
   info:
-  https://www.aluracursos.com/blog/como-trabajar-con-markdown
 
+  https://www.aluracursos.com/blog/como-trabajar-con-markdown
   https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
   
 - estado el proyecto en construccion.
