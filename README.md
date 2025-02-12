@@ -6,5 +6,8 @@ Para ejecutar el sistema, debes poner;
 
 ````npm install react````
 
+Sistema de registro 2
+
+
 El commits "Confirmar/encomendar/enviar" ayuda a Agregando cambios más recientes del proyecto. 
 Abrir: VisualStudio poniendo la flecha arriba + click "."
