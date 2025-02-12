@@ -6,7 +6,7 @@ Para ejecutar el sistema, debes poner;
 
 ````npm install react````
 
-Sistema de registro 2
+Sistema de registro 25
 
 
 El commits "Confirmar/encomendar/enviar" ayuda a Agregando cambios más recientes del proyecto. 
